@@ -18,49 +18,46 @@
       "type": "image/png"
     }
   ],
-"shortcuts": [
-  {
-    "name": "Computer Operator Preparation",
-    "short_name": "Prep",
-    "description": "Practice MCQ for Computer Operator",
-    "url": "https://skylersage.blogspot.com/p/computer-operator-preparation-mcq.html",
-    "icons": [{
-      "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    }]
-  },
-  {
-    "name": "Old Questions",
-    "short_name": "Old",
-    "description": "Previous questions",
-    "url": "https://skylersage.blogspot.com/p/old-questions.html",
-    "icons": [{
-      "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    }]
-  },
-  {
-    "name": "Useful Tools",
-    "short_name": "Tools",
-    "description": "Quick tools collection",
-    "url": "https://skylersage.blogspot.com/p/quick-tools-instant-online-utilities.html",
-    "icons": [{
-      "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    }]
-  },
-  {
-    "name": "Country Special Quiz",
-    "short_name": "Quiz",
-    "description": "Test your knowledge",
-    "url": "https://skylersage.blogspot.com/2025/10/country-special_31.html",
-    "icons": [{
-      "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    }]
-  }
-]
+  "shortcuts": [
+    {
+      "name": "Preparation",
+      "short_name": "Prep",
+      "url": "https://skylersage.blogspot.com/p/computer-operator-preparation-mcq.html",
+      "icons": [{
+        "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }]
+    },
+    {
+      "name": "Old Questions",
+      "short_name": "Old",
+      "url": "https://skylersage.blogspot.com/p/old-questions.html",
+      "icons": [{
+        "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }]
+    },
+    {
+      "name": "Tools",
+      "short_name": "Tools",
+      "url": "https://skylersage.blogspot.com/p/quick-tools-instant-online-utilities.html",
+      "icons": [{
+        "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }]
+    },
+    {
+      "name": "Country Quiz",
+      "short_name": "Quiz",
+      "url": "https://skylersage.blogspot.com/2025/10/country-special_31.html",
+      "icons": [{
+        "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }]
+    }
+  ]
+}
