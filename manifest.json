@@ -45,19 +45,7 @@
         }
       ]
     },
-    {
-      "name": "Country Quiz",
-      "short_name": "Quiz",
-      "description": "Test your knowledge with country quiz",
-      "url": "https://skylersage.blogspot.com/2025/10/country-special_31.html",
-      "icons": [
-        {
-          "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
-          "sizes": "96x96",
-          "type": "image/png"
-        }
-      ]
-    },
+   
     {
       "name": "Useful Tools",
       "short_name": "Tools",
