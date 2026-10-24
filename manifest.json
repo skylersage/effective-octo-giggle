@@ -1,6 +1,6 @@
 {
-  "name": "Computer Operator",
-  "short_name": "Computer",
+  "name": "Rabindra Sahani",
+  "short_name": "Rabindra",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -20,10 +20,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Computer Operator Preparation",
-      "short_name": "Preparation",
-      "description": "Practice MCQ for Computer Operator",
-      "url": "https://skylersage.blogspot.com/p/computer-operator-preparation-mcq.html",
+      "name": "Open Tools with AI",
+      "short_name": "AI",
+      "description": "useful tools",
+      "url": "https://www.rabindrasahani.com.np/p/voice-assistant.html?open=true",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
@@ -33,10 +33,10 @@
       ]
     },
     {
-      "name": "Old Questions",
-      "short_name": "Old MCQ",
-      "description": "Previous Computer Operator Questions",
-      "url": "https://skylersage.blogspot.com/p/old-questions.html",
+      "name": "World Factbook",
+      "short_name": "Atlas",
+      "description": "All country's overview",
+      "url": "https://www.rabindrasahani.com.np/p/the-global-factbook-world-atlas.html",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
@@ -47,10 +47,10 @@
     },
    
     {
-      "name": "Useful Tools",
-      "short_name": "Tools",
-      "description": "Quick online tools collection",
-      "url": "https://skylersage.blogspot.com/p/quick-tools-instant-online-utilities.html",
+      "name": "Popular Landmarks",
+      "short_name": "Landmarks",
+      "description": "explore famous tourist places worldwide",
+      "url": "#",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/skylersage/fantastic-sniffle/refs/heads/main/favicon-96x96.png",
