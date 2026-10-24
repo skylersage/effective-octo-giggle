@@ -3,7 +3,7 @@
   "short_name": "Rabindra",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#000000",
+  "background_color": "#FFFFFF",
   "theme_color": "#00FFEF",
   "orientation": "portrait",
   "icons": [
